@@ -8,6 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 * https://github.com/Skitovich/Java-1.2/issues/1
+* https://github.com/Skitovich/Java-1.2/issues/2
 
 ## Описание процесса тестирования
 
